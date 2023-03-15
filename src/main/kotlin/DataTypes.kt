@@ -1,11 +1,11 @@
 fun main(args: Array<String>) {
 
     //Int
-    var age = 20
-    var age: Int = 20
+
+    var age_t: Int = 20
 
     //Strings
-    var name = "dj Joe"
+
     var name: String = "dj JOe"
 
     //Chars
@@ -13,11 +13,11 @@ fun main(args: Array<String>) {
 
     //Booleans
     var status = true
-    var ststus = false
+
 
     //Double
     var temp = 36.57
 
     //Float
-    var lat:Float = 36.75
+    var lat:Float
 }
