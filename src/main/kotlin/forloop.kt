@@ -3,7 +3,7 @@ fun main(args: Array<String>) {
         if(i % 5 == 0) {
             println(i)
         }else{
-            println("not divisible")
+            println(" $i not divisible")
         }
     }
 
