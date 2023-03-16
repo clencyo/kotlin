@@ -9,7 +9,19 @@ fun main(args: Array<String>) {
         print("B+! Excellent")
     }
     else if(score>=60){
-        print("c! You can do much better")
+        print("B! Nice trial")
+    }
+    else if(score>=50){
+        print("B-! You can do much better")
+    }
+    else if(score>=40){
+        print("C+! You can do much better")
+    }
+    else if(score>=30){
+        print("D! You can do much better")
+    }
+    else if(score>=20){
+        print("D-! You can do much better")
     }
     else {
         print("Repeat The Exam")
